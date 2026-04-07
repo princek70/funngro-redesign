@@ -1,0 +1,17 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/teen.html"
+    },
+    {
+      "source": "/teen",
+      "destination": "/teen.html"
+    },
+    {
+      "source": "/company",
+      "destination": "/company.html"
+    }
+  ]
+}
